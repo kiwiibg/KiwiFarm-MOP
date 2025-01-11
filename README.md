@@ -1,2 +1,4 @@
-# KiwiFarm-MOP
-Backport KiwiFarm for 5.4.8 (MOP)
+# Backport KiwiFarm for 3.3.5a (WOTLK) 
+
+# KiwiFarm
+Resets &amp; gold tracking addon for World of Warcraft.
